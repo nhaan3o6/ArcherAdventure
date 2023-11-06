@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Arrow
+  - Wall
+  - Boss
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Player
+  - Arrow
+  - Enemy
+  - 
+  - BackGround
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Collider
+    uniqueID: 3033409671
+    locked: 0
+  - name: BackGround
+    uniqueID: 562592295
+    locked: 0
+  - name: Bow
+    uniqueID: 1682389031
+    locked: 0
+  - name: Player
+    uniqueID: 357046195
+    locked: 0
+  - name: Object
+    uniqueID: 3642743389
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
